@@ -1,0 +1,1 @@
+Make sure to create database named 'gatepass' before importing 'gatepass.sql' file
